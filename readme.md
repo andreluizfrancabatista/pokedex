@@ -2,7 +2,7 @@
 
 Uma Pokédex interativa desenvolvida com HTML, CSS e JavaScript vanilla para demonstrar o consumo de APIs REST usando a Fetch API. Este projeto é ideal para aprender conceitos fundamentais de desenvolvimento web e integração com APIs.
 
-![Pokédex Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=Pokédex+Preview)
+![Pokédex Preview](preview.png)
 
 ## 🚀 Funcionalidades
 
